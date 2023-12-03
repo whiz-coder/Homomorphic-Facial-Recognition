@@ -5,7 +5,7 @@ Secure and privacy-preserving facial recognition system leveraging homomorphic e
 
 **Key Features:**
 - Extracts facial embeddings from images using the Facenet model.
-- Implements homomorphic encryption (CKKS scheme) for secure operations on facial embeddings.
+- Implements fully homomorphic encryption for secure operations on facial embeddings.
 - Demonstrates privacy-preserving calculations, such as squared Euclidean distance, without exposing raw facial features.
 - Enables secure storage and retrieval of homomorphically encrypted results in the cloud.
 
